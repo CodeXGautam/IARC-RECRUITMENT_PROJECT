@@ -1,0 +1,28 @@
+.font1{
+    font-family: Goldman;
+}
+
+.h1-home{
+    font-family: Goldman;
+    font-size: 10vw;
+    text-shadow: rgba(101, 175, 194, 0.35) 0px 5px 15px;
+}
+
+.h1{
+    font-family: Goldman;
+    text-align: center;
+    padding: 2rem;
+    font-size: 3.5vw;
+    word-spacing: 6px;
+    letter-spacing: 2px;
+    color: rgba(255, 166, 0, 0.655);
+}
+
+h2{
+    font-size: 1.5vw;
+    font-family: Trirong;
+    text-align: center;
+    margin-bottom: 5px;
+   border-bottom: 2px solid black;
+   color: rgba(255, 166, 0, 0.655);
+}

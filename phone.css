@@ -1,0 +1,12 @@
+
+.movebox{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.funbox{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}

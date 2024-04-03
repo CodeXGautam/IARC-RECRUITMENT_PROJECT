@@ -1,0 +1,28 @@
+.type-box{
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.nav{
+    opacity: 0;
+}
+.navicon{
+    display: inline;
+}
+
+.movebox{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.funbox{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.stylebox{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
